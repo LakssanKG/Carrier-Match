@@ -1,0 +1,184 @@
+{
+    "TechSolutions": {
+        "qualification": "Bachelors",
+        "salary": 50000,
+        "experience": 2,
+        "skills": "Python, SQL, Data Analysis",
+        "connections": ["DataAnalyticsInc", "DigitalInnovations", "FutureTech"]
+    },
+    "DataAnalyticsInc": {
+        "qualification": "Masters",
+        "salary": 80000,
+        "experience": 3,
+        "skills": "Python, R, Machine Learning",
+        "connections": ["TechSolutions", "InnovateTech", "AI Solutions"]
+    },
+    "InnovateTech": {
+        "qualification": "PhD",
+        "salary": 100000,
+        "experience": 5,
+        "skills": "Python, AI, Deep Learning",
+        "connections": ["DataAnalyticsInc", "TechGenius", "AI Solutions"]
+    },
+    "DigitalInnovations": {
+        "qualification": "Bachelors",
+        "salary": 55000,
+        "experience": 2,
+        "skills": "JavaScript, HTML, CSS",
+        "connections": ["TechSolutions", "DataExperts", "CodeCreators"]
+    },
+    "FutureTech": {
+        "qualification": "Masters",
+        "salary": 65000,
+        "experience": 4,
+        "skills": "Cloud Computing, AWS, DevOps",
+        "connections": ["TechSolutions", "CloudTech", "SmartTech"]
+    },
+    "AI Solutions": {
+        "qualification": "PhD",
+        "salary": 95000,
+        "experience": 6,
+        "skills": "AI, Machine Learning, Python",
+        "connections": ["DataAnalyticsInc", "InnovateTech", "TechVision"]
+    },
+    "CodeCreators": {
+        "qualification": "Bachelors",
+        "salary": 72000,
+        "experience": 2,
+        "skills": "Java, Spring, Hibernate",
+        "connections": ["DigitalInnovations", "TechGenius", "InnovativeMinds"]
+    },
+    "CloudTech": {
+        "qualification": "Masters",
+        "salary": 68000,
+        "experience": 4,
+        "skills": "Cloud Computing, Azure, DevOps",
+        "connections": ["FutureTech", "TechInnovations", "AdvancedSolutions"]
+    },
+    "TechGenius": {
+        "qualification": "PhD",
+        "salary": 72000,
+        "experience": 5,
+        "skills": "AI, Deep Learning, Python",
+        "connections": ["InnovateTech", "CodeCreators", "AI Innovations"]
+    },
+    "DataExperts": {
+        "qualification": "Bachelors",
+        "salary": 53000,
+        "experience": 2,
+        "skills": "SQL, Data Analysis, Python",
+        "connections": ["DigitalInnovations", "VisionaryTech", "QuantumTech"]
+    },
+    "InnovativeMinds": {
+        "qualification": "Bachelors",
+        "salary": 20000,
+        "experience": 0,
+        "skills": "HTML, CSS, JavaScript",
+        "connections": ["CodeCreators", "VisionaryTech", "DigitalSolutions"]
+    },
+    "Chennai": {
+        "qualification": "PhD",
+        "salary": 2600000,
+        "experience": 15,
+        "skills": "Advanced Algorithms, Quantum Computing",
+        "connections": ["InnovativeTech", "FutureInnovations"]
+    },
+    "VisionaryTech": {
+        "qualification": "Bachelors",
+        "salary": 50000,
+        "experience": 0,
+        "skills": "Python, Data Analysis, SQL",
+        "connections": ["DataExperts", "InnovativeMinds", "CyberTech"]
+    },
+    "QuantumTech": {
+        "qualification": "Bachelors",
+        "salary": 150000,
+        "experience": 7,
+        "skills": "Quantum Computing, Python, AI",
+        "connections": ["DataExperts", "SmartTech", "FutureInnovations"]
+    },
+    "DigitalSolutions": {
+        "qualification": "Masters",
+        "salary": 40000,
+        "experience": 0,
+        "skills": "JavaScript, React, HTML",
+        "connections": ["InnovativeMinds", "TechInnovations", "CyberTech"]
+    },
+    "CyberTech": {
+        "qualification": "Masters",
+        "salary": 20000,
+        "experience": 0,
+        "skills": "Cybersecurity, Python, Network Security",
+        "connections": ["VisionaryTech", "DigitalSolutions", "DataInnovators"]
+    },
+    "DataInnovators": {
+        "qualification": "Masters",
+        "salary": 80000,
+        "experience": 2,
+        "skills": "Data Science, Machine Learning, Python",
+        "connections": ["CyberTech", "TechInnovations", "SmartTech"]
+    },
+    "TechInnovations": {
+        "qualification": "Masters",
+        "salary": 20000,
+        "experience": 0,
+        "skills": "Python, Machine Learning, AI",
+        "connections": ["CloudTech", "DigitalSolutions", "DataInnovators"]
+    },
+    "SmartTech": {
+        "qualification": "Masters",
+        "salary": 110000,
+        "experience": 4,
+        "skills": "AI, Data Science, Cloud Computing",
+        "connections": ["FutureTech", "QuantumTech", "AdvancedSolutions"]
+    },
+    "AdvancedSolutions": {
+        "qualification": "Masters",
+        "salary": 200000,
+        "experience": 8,
+        "skills": "AI, Quantum Computing, Advanced Algorithms",
+        "connections": ["CloudTech", "SmartTech", "AI Innovations"]
+    },
+    "AI Innovations": {
+        "qualification": "PhD",
+        "salary": 60000,
+        "experience": 0,
+        "skills": "AI, Machine Learning, Python",
+        "connections": ["TechGenius", "AdvancedSolutions", "TechPioneers"]
+    },
+    "TechPioneers": {
+        "qualification": "PhD",
+        "salary": 60000,
+        "experience": 1,
+        "skills": "AI, Quantum Computing, Python",
+        "connections": ["AI Innovations", "QuantumSolutions", "TechVision"]
+    },
+    "QuantumSolutions": {
+        "qualification": "PhD",
+        "salary": 70000,
+        "experience": 2,
+        "skills": "Quantum Computing, AI, Python",
+        "connections": ["TechPioneers", "InnovativeTech", "FutureInnovations"]
+    },
+    "TechVision": {
+        "qualification": "PhD",
+        "salary": 100000,
+        "experience": 3,
+        "skills": "AI, Deep Learning, Data Science",
+        "connections": ["AI Solutions", "TechPioneers", "InnovativeTech"]
+    },
+    "InnovativeTech": {
+        "qualification": "PhD",
+        "salary": 50000,
+        "experience": 1,
+        "skills": "AI, Data Science, Python",
+        "connections": ["QuantumSolutions", "TechVision", "Chennai"]
+    },
+    "FutureInnovations": {
+        "qualification": "PhD",
+        "salary": 160000,
+        "experience": 4,
+        "skills": "Quantum Computing, AI, Advanced Algorithms",
+        "connections": ["QuantumTech", "QuantumSolutions", "Chennai"]
+    }
+}
